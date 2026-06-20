@@ -1,4 +1,6 @@
 import { Button } from "@heroui/react";
+import Link from "next/link";
+import { Card } from "@heroui/react";
 
 const HeroPage = () => {
   return (

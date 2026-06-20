@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Complete Next.js Project",
+    "description": "Finish the book management application using Next.js.",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-06-25",
+    "assignedTo": "Billal"
+  },
+  {
+    "id": 2,
+    "title": "Design Landing Page",
+    "description": "Create a responsive landing page using Tailwind CSS.",
+    "status": "Pending",
+    "priority": "Medium",
+    "dueDate": "2026-06-22",
+    "assignedTo": "Rahim"
+  },
+  {
+    "id": 3,
+    "title": "Fix Authentication Bug",
+    "description": "Resolve login issues in the authentication system.",
+    "status": "Completed",
+    "priority": "High",
+    "dueDate": "2026-06-18",
+    "assignedTo": "Karim"
+  },
+  {
+    "id": 4,
+    "title": "Write API Documentation",
+    "description": "Document all REST API endpoints and examples.",
+    "status": "Pending",
+    "priority": "Low",
+    "dueDate": "2026-06-30",
+    "assignedTo": "Jannat"
+  },
+  {
+    "id": 5,
+    "title": "Database Optimization",
+    "description": "Improve query performance and add indexes.",
+    "status": "In Progress",
+    "priority": "High",
+    "dueDate": "2026-06-28",
+    "assignedTo": "Nafis"
+  }
+]
